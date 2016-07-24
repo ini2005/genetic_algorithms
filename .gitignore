@@ -1,0 +1,15 @@
+.idea/
+/.bundle
+log/
+tmp/
+**.orig
+dump.rdb
+.DS_Store
+localfiles/
+*~
+node_modules/
+/npm-debug.log
+.awspublish-*
+.vscode/*
+.vagrant
+.node-version
