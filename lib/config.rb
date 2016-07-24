@@ -1,0 +1,17 @@
+class Config
+
+  POPULATION_SIZE = 140
+
+  MAX_GENERATIONS = 10000
+
+  GENE_SIZE = 64
+
+  UNIFORM_RATE = 0.5
+
+  MUTATION_RATE = 0.2
+
+  TOURNAMENT_SIZE = 5 #20
+
+  ELITISM = true
+
+end
